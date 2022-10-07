@@ -1,7 +1,7 @@
 /*
  * osal_msg.c
  *
- *  Created on: 2022Äê10ÔÂ3ÈÕ
+ *  Created on: 2022.10.3
  *      Author: Felix
  */
 

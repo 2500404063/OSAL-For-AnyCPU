@@ -1,7 +1,7 @@
 /*
  * osal_hal.h
  *
- *  Created on: 2022Äê9ÔÂ29ÈÕ
+ *  Created on: 2022.9.29
  *      Author: Felix
  */
 
